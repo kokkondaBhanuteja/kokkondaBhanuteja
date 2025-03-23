@@ -8,6 +8,7 @@
 </div>
 
 ## 👨‍💻 About Me
+
 ```java
 public class BhanuTeja {
     private final String[] skills = {
@@ -15,11 +16,11 @@ public class BhanuTeja {
     };
     private final String current = "3rd-year undergraduate engineering student";
     private final String passion = "Building scalable and efficient applications";
-    
+
     public String getStatus() {
         return "Coding and learning something new every day!";
     }
-    
+
     public void solveProblems() {
         while(problemExists()) {
             analyzeChallenge();
@@ -134,6 +135,7 @@ I'm a highly skilled Java Developer with a strong foundation in full-stack devel
 <div align="center">
 
 ### 💻 Languages
+
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -144,6 +146,7 @@ I'm a highly skilled Java Developer with a strong foundation in full-stack devel
 </p>
 
 ### 🚀 Frameworks & Libraries
+
 <p>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
@@ -158,6 +161,7 @@ I'm a highly skilled Java Developer with a strong foundation in full-stack devel
 </p>
 
 ### 🛢️ Databases
+
 <p>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -167,6 +171,7 @@ I'm a highly skilled Java Developer with a strong foundation in full-stack devel
 </p>
 
 ### ☁ Cloud & DevOps
+
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
@@ -177,6 +182,7 @@ I'm a highly skilled Java Developer with a strong foundation in full-stack devel
 </p>
 
 ### 🧰 Tools
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -208,7 +214,11 @@ I'm a highly skilled Java Developer with a strong foundation in full-stack devel
 ## 🔄 My Contributions
 
 <div align="center">
-  <img src="https://github.com/kokkondaBhanuteja/kokkondaBhanuteja/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 </div>
 
 ## 💡 Fun Fact
