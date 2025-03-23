@@ -210,7 +210,7 @@ I'm a highly skilled Java Developer with a strong foundation in full-stack devel
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.naukri.com/code360/profile/Bhanu_Teja">
-    <img src="(https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)" alt="Coding Ninjas" />
+    <img src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" alt="Coding Ninjas" />
   </a>
   <a href="https://leetcode.com/u/bhanuteja_kokkonda/">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" />
