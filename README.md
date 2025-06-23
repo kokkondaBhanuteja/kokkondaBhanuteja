@@ -12,9 +12,9 @@
 ```java
 public class BhanuTeja {
     private final String[] skills = {
-        "Java", "Spring Boot", "React", "Node.js", "MongoDB", "AWS"
+        "Java", "Spring Boot","", "React", "Node.js", "MongoDB", "AWS"
     };
-    private final String current = "3rd-year undergraduate engineering student";
+    private final String current = "4th-year undergraduate engineering student";
     private final String passion = "Building scalable and efficient applications";
 
     public String getStatus() {
