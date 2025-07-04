@@ -67,7 +67,7 @@ I'm a highly skilled Java Developer with a strong foundation in full-stack devel
     <td width="50%">
       <h3 align="center">URBIX</h3>
       <div align="center">
-        <a href="#">
+        <a href="https://github.com/kokkondaBhanuteja/URBIX">
           <img src="https://img.shields.io/badge/Code-View-brightgreen?style=for-the-badge&logo=github">
         </a>
         <p>
@@ -83,7 +83,7 @@ I'm a highly skilled Java Developer with a strong foundation in full-stack devel
     <td width="50%">
       <h3 align="center">Dr. Derma</h3>
       <div align="center">
-        <a href="#">
+        <a href="https://github.com/kokkondaBhanuteja/dr_derma">
           <img src="https://img.shields.io/badge/Code-View-brightgreen?style=for-the-badge&logo=github">
         </a>
         <p>
