@@ -87,8 +87,7 @@ I'm a highly skilled Java Developer with a strong foundation in full-stack devel
           <img src="https://img.shields.io/badge/Code-View-brightgreen?style=for-the-badge&logo=github">
         </a>
         <p>
-          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
+          <img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=react&logoColor=61DAFB">
         </p>
         <p>AI-based skincare recommendation system that analyzes skin conditions and suggests personalized treatments.</p>
       </div>
