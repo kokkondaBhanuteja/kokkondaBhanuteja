@@ -73,7 +73,6 @@ I'm a highly skilled Java Developer with a strong foundation in full-stack devel
         <p>
           <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
           <img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=nodedotjs&logoColor=white">
-          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
         </p>
         <p>A real estate investment platform featuring market analysis, property comparison, and investment forecasting.</p>
       </div>
